@@ -340,6 +340,7 @@ body {
 	background-image: url(images/fad-bg.png);
 	background-position: center;
 	background-size: cover;
+	min-width: 1210px;
 }
 .for-all-devices .header-1 {
 	padding-top: 105px;
@@ -572,6 +573,9 @@ body {
 	margin-bottom: 102px;
 }
 
+.some-works-examples {
+	min-width: 1210px;
+}
 .some-works-examples .item {
 	display: inline-block;
 	width: 25%;
@@ -598,6 +602,7 @@ body {
 	background-image: url(images/happy-clients.png);
 	background-size: cover;
 	background-position: center;
+	min-width: 1210px;
 }
 .happy-clients .wrapper {
 	padding-bottom: 129px;
@@ -770,6 +775,7 @@ body {
 	background-size: cover;
 	padding-bottom: 57px;
 	text-align: center;
+	min-width: 1210px;
 }
 .open-map img {
 	display: block;
